@@ -2,7 +2,9 @@
 
 Iniciando o seungundo curso de JavaScrip. Recriação do jogo de atravesar a rua do Atari
 
-Nessa primeira aula vimos:
+Será utilizado a plataforma [p5.js](https://p5js.org/) para a produção do jogo;
+
+Nessa primeira aula veremos:
 
 * Como criar variáveis (let);
 * carregar imagens 
@@ -20,6 +22,7 @@ Nessa primeira aula vimos:
 * Para inserir as imagens que farão parte do nosso jogo, é necessário, primeiramente, adicionar os arquivos no p5
 * Para isso, ao lado de sketch.js clicamos na flecha ">" e em arquivos do Esboço criamos uma pasta "imagem", para armazenar os arquivos.
 * Então, na seta para baixo ao lado da pasta, vamos em "carregar arquivos". Selecionamos as imagens e pronto. Os arquivos agora aparecem no p5.
+* Os arquivos das imagens podem ser baixados nesse repositório;
 
 ###  Para carregar a imagem no programa.
 
